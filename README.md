@@ -16,8 +16,8 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 6.Stop the program
 <BR>
 
-### Reg No: 212224240127
-### Name: S Rajath
+### Reg No: 212224040122
+### Name: Irfan H
 
 ## Program 
 
